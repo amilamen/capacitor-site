@@ -35,7 +35,7 @@
     "fs-extra": "^9.0.0",
     "glob": "^7.1.6",
     "ionicons": "^5.0.1",
-    "marked": "^0.5.2",
+    "marked": "^0.6.1",
     "natives": "^1.1.6",
     "node-fetch": "^2.6.0",
     "prismic-javascript": "^2.7.1",
